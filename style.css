@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 
 
 body{
     margin: 0%;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 :root{
@@ -40,6 +40,7 @@ textarea {
     margin: auto;
     border: 1px solid black;
     font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;;
   }
 
 .show_op{
@@ -49,6 +50,7 @@ textarea {
     border-radius: 1rem;
     display: block;
     margin: 1rem auto;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 
@@ -65,4 +67,5 @@ h3{
     margin: 1rem auto;
     border: 1px solid black;
     font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
   }
